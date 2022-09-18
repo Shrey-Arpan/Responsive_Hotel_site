@@ -1,2 +1,7 @@
 # Resume-Projects
-all projects that are in my resume
+
+files in main branch 
+
+please visit main branch
+
+
